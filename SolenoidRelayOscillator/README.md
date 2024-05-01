@@ -1,4 +1,4 @@
-# final-lab-spring-2024/solenoid-relay-oscillator
+# electrical-engineering-103-final/solenoid-relay-oscillator
 
 Quick lil' sketch to ensure that our solenoid valve(s) are working as intended.
 
@@ -8,5 +8,5 @@ Quick lil' sketch to ensure that our solenoid valve(s) are working as intended.
 
 ## Contributors
 
-- [Ivy Zhan](https://github.com/poisoni-v)
+- [Ivy Zhan](https://github.com/ivyiswell)
 - [Pere Wells](https://github.com/c1m50c)
