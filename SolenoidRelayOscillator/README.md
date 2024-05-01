@@ -2,7 +2,11 @@
 
 Quick lil' sketch to ensure that our solenoid valve(s) are working as intended.
 
+## Schematic
+
+![](./Solenoid%20Valve%20Relay%20Circuit.svg)
+
 ## Contributors
 
-- Ivy Zhan
-- Pere Wells
+- [Ivy Zhan](https://github.com/poisoni-v)
+- [Pere Wells](https://github.com/c1m50c)
